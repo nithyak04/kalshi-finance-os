@@ -25,12 +25,12 @@ const VOLUME_DATA = [
 ];
 
 const CATEGORIES = [
-  { name: "Politics", color: "#6EE7B7", volume: 4120, share: 34.9, oi: 412, avgFee: 0.011, markets: 284, trend: 18.2 },
-  { name: "Economics", color: "#67E8F9", volume: 2480, share: 21.0, oi: 248, avgFee: 0.009, markets: 156, trend: 12.4 },
-  { name: "Sports", color: "#A78BFA", volume: 2210, share: 18.7, oi: 221, avgFee: 0.010, markets: 892, trend: 41.8 },
-  { name: "Tech & AI", color: "#FCD34D", volume: 1180, share: 10.0, oi: 118, avgFee: 0.012, markets: 98, trend: 28.6 },
-  { name: "Weather", color: "#FB923C", volume: 890, share: 7.5, oi: 89, avgFee: 0.008, markets: 210, trend: 6.2 },
-  { name: "Culture", color: "#F9A8D4", volume: 920, share: 7.8, oi: 92, avgFee: 0.010, markets: 134, trend: 9.1 },
+  { name: "Sports", color: "#A78BFA", volume: 10506, share: 89.0, oi: 1050, avgFee: 0.010, markets: 892, trend: 41.8 },
+  { name: "Politics", color: "#6EE7B7", volume: 826, share: 7.0, oi: 82, avgFee: 0.011, markets: 284, trend: 18.2 },
+  { name: "Economics", color: "#67E8F9", volume: 236, share: 2.0, oi: 24, avgFee: 0.009, markets: 156, trend: 12.4 },
+  { name: "Tech & AI", color: "#FCD34D", volume: 118, share: 1.0, oi: 12, avgFee: 0.012, markets: 98, trend: 28.6 },
+  { name: "Weather", color: "#FB923C", volume: 59, share: 0.5, oi: 6, avgFee: 0.008, markets: 210, trend: 6.2 },
+  { name: "Culture", color: "#F9A8D4", volume: 55, share: 0.5, oi: 5, avgFee: 0.010, markets: 134, trend: 9.1 },
 ];
 
 const REVENUE_WATERFALL = [
